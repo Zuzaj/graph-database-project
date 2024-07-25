@@ -1,4 +1,4 @@
-# DB2 15 Martyna Baran Zuzanna Jarlaczyńska
+# Databases project
 
 
 # Content <!-- omit in toc -->
